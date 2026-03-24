@@ -143,7 +143,10 @@ cp -r superpowers-zh/skills /your/project/.antigravity        # Antigravity
 
 - 原始英文版：[obra/superpowers](https://github.com/obra/superpowers)（MIT 协议）
 - 感谢 [@obra](https://github.com/obra) 创建了这个优秀的项目
-- 姊妹项目：[agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)（180 个 AI 智能体专家团队）
+- 姊妹项目：
+  - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) — 186 个 AI 智能体专家团队
+  - [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) — 多智能体编排引擎，零代码 YAML 工作流
+  - [shellward](https://github.com/jnMetaCode/shellward) — AI 智能体安全中间件，注入检测 + 数据防泄露
 
 ---
 
